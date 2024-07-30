@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #08f;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.textos.header {
+    margin-top: 50px;
+}
+
+.titulo {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.contenedor-sobre-gr-laura {
+    display: flex;
+    gap: 20px;
+}
+
+.contenido-textos {
+    max-width: 600px;
+}
+
+.contenido-textos h3 {
+    margin: 20px 0;
+    font-size: 24px;
+}
+
+.blog .contenedor-articulos {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.blog article {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    flex: 1;
+    max-width: 300px;
+}
+
+.blog img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.blog h4 {
+    margin: 15px 0;
+}
+
+.blog a {
+    color: #08f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.contenedor-footer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.content-foo {
+    text-align: center;
+}
+
+.titulo-final {
+    margin-top: 20px;
+}
