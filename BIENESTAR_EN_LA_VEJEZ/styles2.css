@@ -29,14 +29,14 @@ nav {
     display: flex;
     justify-content: center;
     gap: 15px;
-    padding-bottom: 20px;
+    padding-bottom: 300px;
 }
 
 nav a {
     color: white;
     font-weight: bold;
     padding: 10px 20px;
-    transition: background 0.3s;
+    transition: background 0.1s;
 }
 
 nav a:hover {
