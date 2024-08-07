@@ -10,7 +10,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #08f;
+    color: rgb(9, 111, 60);
 }
 
 h1, h2, h3, h4 {
@@ -89,7 +89,7 @@ main {
 .titulo {
     text-align: center;
     margin-bottom: 20px;
-    color: #08f;
+    color: rgb(9, 111, 60);
 }
 
 .contenedor-sobre-gr-laura {
@@ -109,7 +109,7 @@ main {
 }
 
 .contenido-textos h3 {
-    color: #08f;
+    color: rgb(9, 111, 60);
     margin: 10px 0;
 }
 
