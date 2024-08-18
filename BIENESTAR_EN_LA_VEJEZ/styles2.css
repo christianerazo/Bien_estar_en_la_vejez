@@ -162,6 +162,3 @@ main {
 .blog article a:hover {
     background: #e0e0e0;
 }
-
-.blog article:hover {
-    transform: translateY(-5px
